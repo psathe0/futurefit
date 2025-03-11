@@ -1,0 +1,5 @@
+# ignore ALL files in the following directories
+airflow_job/
+.vscode/
+logs/
+plugins/
